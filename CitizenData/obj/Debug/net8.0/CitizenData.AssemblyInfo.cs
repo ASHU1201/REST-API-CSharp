@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitizenData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52fedf65d7b6b89f34cfbcf60060576cb45758da")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitizenData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitizenData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
